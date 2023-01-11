@@ -1,0 +1,140 @@
+body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 0.625em;
+    top: 1.125em;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 5.25em;
+}
+
+.links>a {
+    color: #636b6f;
+    padding: 0 1.563em;
+    font-size: 0.813em;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.inscriptions {
+    margin: 5em;
+    padding: 2em;
+    border: 0.063em solid rgb(69, 112, 112);
+    box-shadow: 2em 2em 3em;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-control {
+    margin: 1em;
+}
+
+.navbar {
+    margin-bottom: 5%;
+}
+
+
+/*header*/
+
+.h3 {
+    margin-top: 2em;
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 60em !important;
+    line-height: inherit;
+    white-space: nowrap;
+    color: orange;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 0.625em;
+    top: 1.125em;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 5.25em;
+}
+
+.links>a {
+    color: #636b6f;
+    padding: 0 1.563em;
+    font-size: 0.813em;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.inscriptions {
+    margin: 5em;
+    padding: 2em;
+    border: 0.063em solid rgb(69, 112, 112);
+    box-shadow: 2em 2em 3em;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-control {
+    margin: 1em;
+}

@@ -1,0 +1,32 @@
+   /* ads_create*/
+   
+   body {
+       background-color: #fff;
+       color: #04202e;
+       font-family: 'Nunito', sans-serif;
+       font-weight: 800;
+       height: 100vh;
+       margin: 0;
+   }
+   
+   .col-md-7 {
+       margin: 2em;
+       width: 40em;
+       border: 1px, solid, black;
+       border-radius: 10px;
+   }
+   
+   .row-md-6 {
+       background-color: #ff9b00;
+       padding: 4%;
+       border-top-left-radius: 0.5rem;
+       border-bottom-left-radius: 0.5rem;
+   }
+   
+   .col-lg {
+       background: rgb(246, 244, 250);
+       color: black;
+       padding: 3em;
+       border-top-right-radius: 0.5rem;
+       border-bottom-right-radius: 0.5rem;
+   }
